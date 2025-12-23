@@ -12,12 +12,6 @@ it will purchase a Number Automatically from the SMS-Activate Website & it will 
 ![Screenshot Description](https://www.kenzabyte.com/wp-content/uploads/2024/02/telegram-bulk-account-creator-software-options.png)
 
 
-## Video Tutorial :-
-
-Telegram Unlimited Account maker using SMS-Activate API Video.
-
-⭐  [Click Here to watch](https://www.youtube.com/watch?v=Dzl5na4tyMs)  ⭐
-
 ## Contact Details :-
 
 If you have any Business Proposal, you can contact us using the Below Contact Details
