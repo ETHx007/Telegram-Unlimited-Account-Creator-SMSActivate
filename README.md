@@ -1,5 +1,5 @@
 
-# Telegram-Unlimited-Account-Creator-SMSActivate
+# Telegram-Unlimited-Account-Creator-SMSActivate + Email Auto verification 2026 !
 
 Telegram Unlimited Account Creator using SMS-Activate API | Create Telegram Account and Convert to sessions Automatically
 
@@ -37,7 +37,7 @@ If you have any Business Proposal, you can contact us using the Below Contact De
 
 
 
-## Features :- 
+## Features :- 30+ functionalities 
 
 - 🟢 Supports TELETHON Module ⭐
 
